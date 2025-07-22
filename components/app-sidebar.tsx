@@ -46,21 +46,6 @@ const data = {
       icon: IconDashboard,
     },
     {
-      title: "Lifecycle",
-      url: "#",
-      icon: IconListDetails,
-    },
-    {
-      title: "Analytics",
-      url: "#",
-      icon: IconChartBar,
-    },
-    {
-      title: "Projects",
-      url: "#",
-      icon: IconFolder,
-    },
-    {
       title: "Team",
       url: "#",
       icon: IconUsers,
@@ -138,7 +123,7 @@ const data = {
       icon: IconDatabase,
     },
     {
-      name: "Reports",
+      name: "Reports",  
       url: "#",
       icon: IconReport,
     },
