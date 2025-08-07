@@ -11,7 +11,7 @@ import { ActiveThemeProvider } from "@/components/active-theme";
 export const metadata: Metadata = {
   title: "Gabut Next",
   description:
-    "Just for fun.",
+    "Let's play the game.",
 };
 
 export default async function RootLayout({
