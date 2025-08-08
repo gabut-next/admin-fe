@@ -9,7 +9,7 @@ import { ThemeProvider } from "@/components/providers/theme-provider";
 import { ActiveThemeProvider } from "@/components/active-theme";
 
 export const metadata: Metadata = {
-  title: "Gabut Next",
+  title: "Gabutz",
   description:
     "Let's play the game.",
 };
