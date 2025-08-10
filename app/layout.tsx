@@ -11,7 +11,7 @@ import { ActiveThemeProvider } from "@/components/active-theme";
 export const metadata: Metadata = {
   title: "Gabutz",
   description:
-    "Let's play the game.",
+    "........",
 };
 
 export default async function RootLayout({
