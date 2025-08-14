@@ -9,7 +9,7 @@ import { ThemeProvider } from "@/components/providers/theme-provider";
 import { ActiveThemeProvider } from "@/components/active-theme";
 
 export const metadata: Metadata = {
-  title: "Gabutz",
+  title: "Dashboard",
   description:
     "........",
 };
